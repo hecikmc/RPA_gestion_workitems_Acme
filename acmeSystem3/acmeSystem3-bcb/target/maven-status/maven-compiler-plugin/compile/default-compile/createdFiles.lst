@@ -1,0 +1,16 @@
+com\acmeSystem3\models\WorkItem.class
+com\acmeSystem3\service\AcmeService.class
+configs\main\performer.xml
+com\acmeSystem3\rpa\AcmeLoginPage.class
+com\acmeSystem3\service\AcmeSystem3Service.class
+com\acmeSystem3\rpa\AcmeWorkItemDetailsPage.class
+com\acmeSystem3\task\Dispatcher_2.class
+com\acmeSystem3\task\Dispatcher_1.class
+com\acmeSystem3\utils\Constants.class
+com\acmeSystem3\rpa\AcmeWorkItemsPage.class
+com\acmeSystem3\rpa\AcmeWorkItemUpdatePage.class
+com\acmeSystem3\models\Customer.class
+com\acmeSystem3\models\dao\ManagerDDBB.class
+com\acmeSystem3\rpa\AcmePlaneRobotRpa.class
+com\acmeSystem3\utils\PrintErrors.class
+com\acmeSystem3\task\Performer.class

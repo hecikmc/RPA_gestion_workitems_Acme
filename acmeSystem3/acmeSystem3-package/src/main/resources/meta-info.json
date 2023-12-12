@@ -1,0 +1,12 @@
+{
+  "WF_VERSION": "10.2.7.0",
+  "TARGET_VERSION": "10.1.6",
+  "DESCRIPTION": "acmeSystem3 package",
+  "NAME": "uc-acmeSystem3",
+  "USE_CASE_CODE": "uc-code",
+  "USE_CASE_VERSION": "0",
+  "DATA_MODEL_VERSION": "0",
+  "INSTANCE": "https://instance.workfusion.com",
+  "AUTHOR": "Created by ODF2 archetype",
+  "PACKAGE_DATE": "2023-11-22 09:43:31"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd">
+
+    <changeSet author="ODF2 archetype" id="uc_code_records_v0_001" objectQuotingStrategy="LEGACY">
+        <loadData encoding="UTF-8" commentLineStartsWith="//"
+                  relativeToChangelogFile="true"
+                  separator=","
+                  file="usecase_config.csv"
+
+                  tableName="uc_uc_code_config_v0">
+        </loadData>
+    </changeSet>
+
+</databaseChangeLog>
