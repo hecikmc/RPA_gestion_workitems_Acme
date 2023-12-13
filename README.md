@@ -26,7 +26,7 @@ Flujo de actividades desarrolladas por cada proceso:
 Para poder ejecutar el proyecto, es necesario disponer de:
 * Workfusion (con licencia). Puedes decargarlo aqui: https://doc.workfusion.com/enterprise/docs/iac/core/studio/install-iac-developer/
  
-  * En la herramienta Studio (eclipse) de WorkFusion, hay que importar la estructura de carpetas con Maven:
+  * En la herramienta Studio (eclipse) de WorkFusion, hay que importar la estructura de carpetas 'ejecutable AcmeSystem3' con Maven:
 
   ![image](https://github.com/hecikmc/RPA_gestion_workitems_Acme/assets/121127625/70eb993b-66c9-4259-9d66-236162ce29da)
 
