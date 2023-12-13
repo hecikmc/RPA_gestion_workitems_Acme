@@ -46,6 +46,7 @@ Es necesario disponer de 2 variables 'SecretsVault' creadas en Studio:
 
 ## Arquetipo utilizado
 
-```shell mvn archetype:generate -DarchetypeGroupId="com.workfusion.odf2" -DarchetypeArtifactId="simple-archetype" -DarchetypeVersion="10.2.6.10" -DgroupId="com.example" -DartifactId="example-project4" -Dversion="1.0" -Dpackage="com.example" -Dusecase-code="uc-code" -Dusecase-name="uc-name" -Dcontrol-tower-url="http://localhost:15280" -DinteractiveMode=false
+```shell
+mvn archetype:generate -DarchetypeGroupId="com.workfusion.odf2" -DarchetypeArtifactId="simple-archetype" -DarchetypeVersion="10.2.6.10" -DgroupId="com.example" -DartifactId="example-project4" -Dversion="1.0" -Dpackage="com.example" -Dusecase-code="uc-code" -Dusecase-name="uc-name" -Dcontrol-tower-url="http://localhost:15280" -DinteractiveMode=false
 
 
