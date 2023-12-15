@@ -41,7 +41,7 @@ Es necesario disponer de 2 variables 'SecretsVault' creadas en Studio:
 ![image](https://github.com/hecikmc/RPA_gestion_workitems_Acme/assets/121127625/36bcc3fb-fce1-4b1f-be09-bb9bc20fc2ce)
 
 ### Fichero ../utils/Constans.java
-* Es necesario actualizar la URL de JDB con la URL de configuracion de tu servidor de DBeaber.
+* Es necesario actualizar la URL de JDB con la URL de configuracion de tu servidor de DBeaver.
 * Es necesario actualizar la ruta del ejecutable donde tengas guardado el fichero ACME-System3.exe
 
 ## Arquetipo utilizado
